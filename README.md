@@ -447,7 +447,7 @@ Each participant must submit the following **before the deadline (date and time)
 
 1. **Project source code**
    - Complete and structured repository, following [2.2. Repository Structure](#22-repository-structure).
-   - Submitted via e-mail to the focal points as a `.zip` copy of the final state of your repository. The `.zip` and the private repository must match.
+   - Submit the final deliverable via email to the designated focal points as a .zip copy of the final state of your repository. To prevent the .zip file from being blocked by the company’s spam filter, upload it to Google Drive, OneDrive, Box, or another file-sharing service and include only the download link in the email. The contents of the .zip file and the private repository must match.
    - **Do not include your `.env` file or any credential** in the delivery.
    - A `README.md` including:
      - Executive summary of the solution (business problem and value).
@@ -477,7 +477,7 @@ Record a video **as if you were presenting the MVP to Puerto Sur's leadership te
 
 | Section | Suggested time | Content |
 |---------|---------------|---------|
-| 1. Executive opening | 3–4 min | Who you are. The client's problem in business terms. What Dulce is and the **value it brings** (time saved, response time, employee experience, error reduction). How you would measure success (KPIs). |
+| 1. Executive opening | 3–4 min | Who you are. The client's problem in business terms. What Dulce is and the **value it brings** (time saved, response time, employee experience, error reduction). How you would measure success (KPIs). You can use a Power Point presentation as a visual help for your executive opening. |
 | 2. Live demo | 5–7 min | Real business scenarios end-to-end: policy questions with citations, balance check, a successful leave request with confirmation, a rejected request (business rule), a payslip, an escalation, and a guardrail (e.g., prompt injection). |
 | 3. Technical deep dive | 6–8 min | Architecture, framework and model choices (and why), agent design, tools and how business rules and identity are enforced, RAG pipeline (ingestion, chunking, embeddings, retrieval), security, testing and evaluation. |
 | 4. Roadmap and closing | 2–3 min | Limitations of the MVP, what is needed to go to production (real HR system integration, SSO, monitoring, AI governance, scaling to thousands of employees), lessons learned, and a clear closing / call to action. |
