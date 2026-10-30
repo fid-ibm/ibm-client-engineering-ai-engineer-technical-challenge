@@ -1,5 +1,9 @@
 # Watsonx.ai - Agentic HR Assistant Challenge
 
+<img width="1920" height="1080" alt="img" src="https://github.com/user-attachments/assets/d205d8e0-14a9-4bbf-86ba-8eb194c7938e" />
+
+
+## Table of Contents
 - [Watsonx.ai - Agentic HR Assistant Challenge](#watsonxai---agentic-hr-assistant-challenge)
   - [1. Introduction](#1-introduction)
     - [1.1. About Puerto Sur](#11-about-puerto-sur)
